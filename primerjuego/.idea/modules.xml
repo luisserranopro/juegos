@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/primerjuego.iml" filepath="$PROJECT_DIR$/.idea/modules/primerjuego.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/primerjuego.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/primerjuego.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/primerjuego.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/primerjuego.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/primerjuego.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/primerjuego.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html/primerjuego.html.iml" filepath="$PROJECT_DIR$/.idea/modules/html/primerjuego.html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/primerjuego.ios.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/primerjuego.ios.iml" />
+    </modules>
+  </component>
+</project>
